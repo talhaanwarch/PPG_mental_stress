@@ -14,7 +14,11 @@ Mental stress is a natural response to life activities. However, acute and prolo
 |     Decision Tree             |     54%         |     66%            |     72%       |     74%            |     76%             |
 |     Random Forest             |     61%         |     70%            |     72%       |     72%            |     75%             |  
 
+# Note:  
+Dataset is publicly available. In case you use it, please cite following paper.  
+
 # Reference  
+```  
 @article{anwar2022,
 author = {Anwar, Talha and Zakir, Seemab},
 title = {Machine Learning Based Real-Time Diagnosis of Mental Stress Using Photoplethysmography},
@@ -24,3 +28,4 @@ volume = {55},
 pages = {154--167},
 journal = {Journal of Biomimetics, Biomaterials and Biomedical Engineering},
 }
+```
